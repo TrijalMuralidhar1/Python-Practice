@@ -1,0 +1,2 @@
+collegename = ("NARAYANA")
+print (collegename)

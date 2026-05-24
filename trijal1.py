@@ -1,0 +1,2 @@
+name = ("trijal")
+print(name)
